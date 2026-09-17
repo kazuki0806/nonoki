@@ -1,0 +1,5 @@
+# 架空の会社のデザイン作例です。各ページの noindex で検索結果には出しません。
+User-agent: *
+Allow: /
+
+Sitemap: https://kazuki0806.github.io/nonoki/sitemap.xml
